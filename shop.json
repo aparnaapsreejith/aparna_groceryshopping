@@ -1,0 +1,86 @@
+[
+    {
+        "serialnumber": "1",    
+        "name": "maggi",
+        "quantity": "1pkt",
+        "unit": "pkt",
+        "Department": "snack",
+        "Notes": "noodles"
+    },
+    {
+        
+            "serialnumber":"2",    
+            "name": "mango",
+            "quantity": "2kg",
+            "unit": "kg",
+            "Department": "fruits",
+            "Notes": "alphonso"
+        
+    },
+    {
+        "serialnumber": "3",    
+        "name": "egg",
+        "quantity": "10nos",
+        "unit": "nos",
+        "Department": "diary and egg",
+        "Notes": "duck egg"
+
+    },
+     
+    {
+        "serialnumber": "4",    
+        "name": "butter",
+        "quantity": "500gm",
+        "unit": "gm",
+        "Department": "diary",
+        "Notes": "unsalted"
+    },
+    {
+        "serialnumber": "5",    
+        "name": "pickle",
+        "quantity": "500gm",
+        "unit": "gm",
+        "Department": "pickles ",
+        "Notes": "lemon"
+    },
+    {
+        "serialnumber": "6",    
+        "name": "cheese",
+        "quantity": "1pkt",
+        "unit": "gm",
+        "Department": "diary",
+        "Notes": "mozarella"
+    },
+    {
+        "serialnumber": "7",    
+        "name": "red chilly",
+        "quantity": "1kg",
+        "unit": "kg",
+        "Department": "spices",
+        "Notes": "kashmiri"
+    },
+    {
+        "serialnumber": "8",    
+        "name": "oil",
+        "quantity": "1kg",
+        "unit": "kg",
+        "Department": "oil",
+        "Notes": "coconut oil"
+    },
+    {
+        "serialnumber": "9",    
+        "name": "rice",
+        "quantity": "5kg",
+        "unit": "kg",
+        "Department": "daily",
+        "Notes": "brown rice"
+    },
+    {
+        "serialnumber": "10",    
+        "name": "orange",
+        "quantity": "1kg",
+        "unit": "kg",
+        "Department": "fruits",
+        "Notes": "tangerine"
+    }
+]
